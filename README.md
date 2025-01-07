@@ -1,2 +1,2 @@
-# PumpKing
- just another university project
+# ECLIPTICA
+for our university project
